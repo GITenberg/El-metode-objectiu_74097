@@ -1,0 +1,37 @@
+_repo: El-metode-objectiu_74097
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Turró, Ramón
+    aliases:
+    - Turro, Ramon
+    - Darder, Ramon Turró i
+    - Darder, Ramón Turró y
+    - Turró, Ramon
+    birthdate: 1854
+    deathdate: 1926
+    gutenberg_agent_id: '57351'
+    url: http://www.gutenberg.org/2009/agents/57351
+    wikipedia: https://ca.wikipedia.org/wiki/Ramon_Turr%C3%B3_i_Darder
+description: ''
+gutenberg_issued: '2024-07-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74097'
+language: ca
+pgterms:marc905: 20240717035207turr
+pgterms:marc906: '1927'
+pgterms:marc907: ES
+production_note: 'digital editor: Joan Queralt Gil'
+publication_note: '  $aBarcelona :$bLlibreria Catalònia, $c1927.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+series_note: Monografies mèdiques, no. 12
+subjects:
+- !lcsh 'Science -- Methodology'
+- !lcsh 'Science -- Philosophy'
+- !lcc 'Q'
+- GITenberg
+title: El mètode objectiu
+url: http://www.gutenberg.org/ebooks/74097
