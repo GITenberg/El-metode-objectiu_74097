@@ -1,5 +1,8 @@
 _repo: El-metode-objectiu_74097
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 74097-h/images/cover.jpg
 creator:
   author:
     agent_name: Turró, Ramón
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57351
     wikipedia: https://ca.wikipedia.org/wiki/Ramon_Turr%C3%B3_i_Darder
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74097#El-metode-objectiu
 gutenberg_issued: '2024-07-24'
 gutenberg_type: Text
 identifiers:
